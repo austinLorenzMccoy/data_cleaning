@@ -42,11 +42,11 @@ pip install pandas numpy matplotlib seaborn scipy
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/austinLorenzMccoy/Infant_Mortality_Data_Analysis.git
+   git clone https://github.com/austinLorenzMccoy/data_cleaning.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Infant_Mortality_Data_Analysis
+   cd data_cleaning.git
    ```
 3. Launch the Jupyter Notebook:
    ```bash
@@ -57,11 +57,6 @@ pip install pandas numpy matplotlib seaborn scipy
 ## Data Cleaning Repository
 For additional scripts and resources related to data cleaning, please visit the [Data Cleaning Repository](https://github.com/austinLorenzMccoy/data_cleaning.git).
 
-## Contributions
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request. Ensure that your changes align with the project goals.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 For questions or collaboration opportunities, reach out to:
